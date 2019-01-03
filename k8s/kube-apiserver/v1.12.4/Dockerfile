@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/coredns:1.2.2
+FROM k8s.gcr.io/kube-addon-manager:v8.6
